@@ -1,6 +1,3 @@
 m1
 sneha
 priya
-test1
-test2
-test3
